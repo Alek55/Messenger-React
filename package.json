@@ -9,7 +9,7 @@
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,6 +33,6 @@
     ]
   },
   "devDependencies": {
-    "react-styleguidist": "^10.3.2"
+    "react-styleguidist": "^13.1.1"
   }
 }
